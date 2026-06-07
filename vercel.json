@@ -1,4 +1,1 @@
-{
-  "buildCommand": "bun run build",
-  "installCommand": "bun install"
-}
+'{"buildCommand":"npm run build","installCommand":"npm install","outputDirectory":"dist","rewrites":[{"source":"/(.*)", "destination":"/index.html"}]}' 
